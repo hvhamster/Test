@@ -5,3 +5,4 @@ else:
   print("Hello")
 
 number = 12
+print(number)
